@@ -1,0 +1,11 @@
+{
+	vote: {
+		pair: ['one', 'two'],
+		tally: {
+			'one': 2,
+			'two': 3
+		}
+	},
+	entries: ['three', 'four', 'etc'],
+	winner: 'last'
+}

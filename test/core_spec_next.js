@@ -1,7 +1,7 @@
 import { List, Map } from 'immutable';
 import { expect } from 'chai';
 
-import { setEntries, next, vote } from '../src/core';
+import { next } from '../src/core';
 
 describe('next', () => {
 	it('adds a pair to start voting', () => {
